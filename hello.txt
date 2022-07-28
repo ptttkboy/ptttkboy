@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test hotfix
+=======
+Branch of b1
+>>>>>>> newb
